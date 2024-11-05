@@ -119,8 +119,11 @@ plt.show()
 
 # OUTPUT:
 ![Screenshot 2024-11-05 225604](https://github.com/user-attachments/assets/facc6ec2-d43d-4276-8c1e-c52023721c7d)
+
 ![Screenshot 2024-11-05 225611](https://github.com/user-attachments/assets/b0ac26b9-2248-408a-9890-de087bd88af8)
+
 ![Screenshot 2024-11-05 225622](https://github.com/user-attachments/assets/e34bae49-c1ee-4168-97bf-91f8cd88141b)
+
 ![Screenshot 2024-11-05 225632](https://github.com/user-attachments/assets/3ce85334-3b59-4564-aa6b-bd64b0b97edf)
 
 
