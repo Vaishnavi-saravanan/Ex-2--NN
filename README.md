@@ -1,6 +1,6 @@
 <H3>Name : VAISHNAVI S</H3>
 <H3>Register no : 212222230165</H3>
-<H3>Date : 11.09.2024</H3>
+<H3>Date : </H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
